@@ -1,2 +1,2 @@
 
-import Home from "./components/Home"
+import "./components/Welcome"
